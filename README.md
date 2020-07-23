@@ -54,6 +54,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Angular](https://angular.io/) - El framework web usado
 * [ngx-charts](https://swimlane.gitbook.io/ngx-charts/) - Charts
 * [D3](https://d3js.org/) - Charts
+* [Bootstrap](https://getbootstrap.com/) - Diseño y estilos
 
 ## Versionado 📌
 

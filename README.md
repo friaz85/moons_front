@@ -64,5 +64,6 @@ Uso [Gihub](https://github.com/) para el versionado. Para todas las versiones di
 
 
 
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+--
+-
+⌨️ con ❤️ por [friaz85](https://github.com/friaz85) 😊

@@ -49,7 +49,7 @@ ng build
 <a target="_blank" href="https://ibb.co/pJt6dHz"><img src="https://i.ibb.co/pJt6dHz/ng-build.png" alt="ng-build" border="0"></a>
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas utilizadas_
 
 * [Angular](https://angular.io/) - El framework web usado
 * [ngx-charts](https://swimlane.gitbook.io/ngx-charts/) - Charts
